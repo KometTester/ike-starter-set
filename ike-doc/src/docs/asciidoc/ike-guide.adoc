@@ -550,8 +550,8 @@ The sixteen decided defaults group into a small number of strategies:
   name description semantic of k:UninitializedComponent[] — a real, resolvable semantic
   whose subject is itself the loud placeholder, so the reference is valid yet plainly
   unrevised.
-* *The flagged compromise.* Boolean is <<term-false,`false`>>: a two-valued type has no loud member,
-  so no Boolean default can announce itself as unrevised; <<term-false,`false`>> is offered as the
+* *The flagged compromise.* Boolean is `false`: a two-valued type has no loud member,
+  so no Boolean default can announce itself as unrevised; `false` is offered as the
   initial value with that limitation stated rather than hidden.
 
 === A Worked Default: Preferred Reviewer
